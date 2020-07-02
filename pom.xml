@@ -84,7 +84,7 @@
 		<dependency>
     		<groupId>mysql</groupId>
     		<artifactId>mysql-connector-java</artifactId>
-    		<version>8.0.11</version>
+    		<version>8.0.16</version>
 		</dependency>
 		<!--  JDBC TEMPLATE for model objects with more than 1 value for each field  -->
 		<dependency>
