@@ -13,7 +13,7 @@
 		<org.springsecurity-version>5.0.6.RELEASE</org.springsecurity-version>
 		<org.aspectj-version>1.8.13</org.aspectj-version>
 		<org.slf4j-version>1.7.25</org.slf4j-version>
-		<jackson.databind-version>2.9.5</jackson.databind-version>
+		<jackson.databind-version>2.9.10.7</jackson.databind-version>
 	</properties>
 	<dependencies>
 		<!-- Spring -->
